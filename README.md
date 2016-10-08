@@ -36,7 +36,7 @@ the component package and footprint before designing a PCB layout.
 
 <a name="header3"><h2>1. Schematic design and simulation in QUCS</h2></a>
 
-<img src="/media/Schematic.png" width="500" height="300">
+<img src="/media/Schematic.png" width="500" height="700">
 
 How the LED Blinker/ Astable Multivibrator works: The 2 capacitors C1 and C2 alternatively charges and discharges, 
 which causes the transistors Q2 and Q1 to alternately turn on and off respectively. The transistors switch their state 
@@ -70,12 +70,11 @@ and off for 1s.
 
 <l>2D View</l>
 
-<img src="/media/v2_2D_Top.jpg" width="500" height="300">
-<img src="/media/v2_2D_Bottom.jpg" width="500" height="300">
+<img src="/media/v2_2D.jpg" width="500" height="300">
 
 <l>3D View</l>
 
-<img src="media/v2_3D_Top.jpg" width="500" height="300">
+<img src="media/v2_3D.jpg" width="500" height="300">
 
 Tips for PCB layout design:
 
@@ -99,3 +98,18 @@ Tips for PCB layout design:
 <img src="/media/v2_Final.jpg" width="500" height="300">
 
 <a name="header8"><h2>6. Modification and finalization</h2></a>
+
+<h3>Version 3:</h3>
+
+<l>2D View</l>
+
+<img src="/media/v3_2D_Top.jpg" width="500" height="300">
+<img src="/media/v3_2D_Bottom.jpg" width="500" height="300">
+
+<l>3D View</l>
+
+<img src="/media/v3_3D_Top.jpg" width="500" height="300">
+<img src="/media/v3_3D_Bottom.jpg" width="500" height="300">
+
+
+
