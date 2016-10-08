@@ -39,7 +39,7 @@ Thus, it is recommended to check the component package and footprint before desi
 
 <a name="header3"><h2>1. Schematic design and simulation in QUCS</h2></a>
 
-<img src="/media/Schematic.png" width="500" height="700">
+<img src="/media/Schematic.PNG" width="500" height="700">
 
 <i>Fig 2. Schematic design and simulation using QUCS, an open source circuit simulator</i>
 
@@ -75,7 +75,7 @@ My circuit works fine on breadboard using 5V DC supply.
 
 <img src="media/v1_3D_Top.jpg" width="500" height="300">
 
-<i>Fig 4, 5. 2D and 3D view layout for PCB version 1 in ALtium Designer</i>
+<i>Fig 4, 5. 2D and 3D view layout for PCB version 1 in Altium Designer</i>
 
 <h3>Version 2:</h3>
 
@@ -116,13 +116,14 @@ Tips for PCB layout design:
 
 <img src="/media/v2_Final.jpg" width="500" height="300">
 
-<i>Fig 10. PCB version 2 after populating</i>
+<i>Fig 11. PCB version 2 after populating</i>
 
 <a name="header8"><h2>6. Modification and finalization</h2></a>
 
 It is possible to pack the components even closer together and thus reduce the size of the board further. Also, it is recommended to
 always keep a ground plate at the bottom layer and distribute vias to ground across the PCB at certain intervals, so that 
-the PCB functions more reliably under high frequencies.
+the PCB functions more reliably under high frequencies. As such, I have modified my PCB layout although I have not been able to
+produce a new batch of PCB yet. However, it will look like this:
 
 <h3>Version 3:</h3>
 
@@ -131,10 +132,14 @@ the PCB functions more reliably under high frequencies.
 <img src="/media/v3_2D_Top.PNG" width="500" height="300">
 <img src="/media/v3_2D_Bottom.PNG" width="500" height="300">
 
+<i>Fig 11, 12. Top and bottom 2D view layout of PCB version 3</i>
+
 <l>3D View</l>
 
 <img src="/media/v3_3D_Top.PNG" width="500" height="300">
 <img src="/media/v3_3D_Bottom.PNG" width="500" height="300">
+
+<i>Fig 13, 14. Top and bottom 3D view layout of PCB version 3</i>
 
 
 
