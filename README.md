@@ -2,7 +2,7 @@
 In this project I prototyped a LED Blinker PCB, or in essence, an Astable Multivibrator with 2 LEDs.
 
 I did most of the work at my internship company RF Frontend (Kamp-Lintfort), where I had the chance to do entirely or 
-partly participate in every step of professional PCB prototyping procedure. 
+partly participate in every step of PCB prototyping procedure. 
 ############
 <h2><a name="header1">Project Track</a></h2>
 [<ul> 1. Schematic design and simulation in QUCS</ul>](#header3)
