@@ -39,7 +39,7 @@ Thus, it is recommended to check the component package and footprint before desi
 
 <a name="header3"><h2>1. Schematic design and simulation in QUCS</h2></a>
 
-<img src="/media/Schematic.PNG" width="500" height="700">
+<img src="/media/Schematic.png" width="500" height="700">
 
 <i>Fig 2. Schematic design and simulation using QUCS, an open source circuit simulator</i>
 
