@@ -81,7 +81,7 @@ My circuit works fine on breadboard using 5V DC supply.
 
 <l>2D View</l>
 
-<img src="/media/v2_2D.jpg" width="500" height="300">
+<img src="/media/v2_2D.png" width="500" height="300">
 
 <l>3D View</l>
 
@@ -128,13 +128,13 @@ the PCB functions more reliably under high frequencies.
 
 <l>2D View</l>
 
-<img src="/media/v3_2D_Top.png" width="500" height="300">
-<img src="/media/v3_2D_Bottom.png" width="500" height="300">
+<img src="/media/v3_2D_Top.PNG" width="500" height="300">
+<img src="/media/v3_2D_Bottom.PNG" width="500" height="300">
 
 <l>3D View</l>
 
-<img src="/media/v3_3D_Top.png" width="500" height="300">
-<img src="/media/v3_3D_Bottom.png" width="500" height="300">
+<img src="/media/v3_3D_Top.PNG" width="500" height="300">
+<img src="/media/v3_3D_Bottom.PNG" width="500" height="300">
 
 
 
