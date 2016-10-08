@@ -62,9 +62,17 @@ and off for 1s.
 
 <i>Fig 3. Breadboard prototyping</i>
 
-My circuit works fine on breadboard using 5V DC supply.
+After verifying that my circuit works fine on breadboard using 5V DC supply, I went on to design a PCB layout for the circuit.
 
 <a name="header5"><h2>3. Schematic design and PCB layout in Altium Designer</h2></a>
+
+Tips for PCB layout design at this point:
+<l><i>Get to know which components footprint/ packages available with you and load them for </i></l>
+
+<l><i>Keep the traces as short as possible</i></l>
+
+
+
 <h3>Version 1:</h3>
 
 <l>2D View</l>
@@ -81,15 +89,13 @@ My circuit works fine on breadboard using 5V DC supply.
 
 <l>2D View</l>
 
-<img src="/media/v2_2D.png" width="500" height="300">
+<img src="/media/v2_2D.PNG" width="500" height="300">
 
 <l>3D View</l>
 
 <img src="media/v2_3D.jpg" width="500" height="300">
 
 <i>Fig 6, 7. 2D and 3D view layout for PCB version 2 in ALtium Designer</i>
-
-Tips for PCB layout design:
 
 
 <a name="header6"><h2>4. PCB production</h2></a>
