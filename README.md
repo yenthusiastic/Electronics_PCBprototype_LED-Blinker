@@ -66,12 +66,17 @@ After verifying that my circuit works fine on breadboard using 5V DC supply, I w
 
 <a name="header5"><h2>3. Schematic design and PCB layout in Altium Designer</h2></a>
 
-Tips for PCB layout design at this point:
-<l><i>Get to know which components footprint/ packages available with you and load them for </i></l>
+Tips for PCB layout design I earned at this point:
+
+<l><i>Get to know which components footprint/ packages available with you and load them in Altium/ your PCB designing software</i></l>
 
 <l><i>Keep the traces as short as possible</i></l>
 
+<l><i>Preset the width of the traces in the software's settings menu. Usually different types of traces have different widthw. For example, power lines (VCC and GND) are usually thicker than signal lines.</i></l>
 
+<l><i>The common trace angle is 45 degree due to optical rules, 90 degree is limitedly use thus I avoided using it, curved angle requires calculations thus so far I have not used it.</i></l>
+
+More tips can be found further below under [Modification and finalization.](#header8)
 
 <h3>Version 1:</h3>
 
